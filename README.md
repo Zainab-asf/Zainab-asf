@@ -2,13 +2,9 @@
 
 🚀 Passionate about building innovative and scalable software solutions.
 
-💡 Experienced in web development, including frontend and backend technologies.
-
-🔧 Strong believer in the power of open source
-
 🌟 Let's connect and collaborate on exciting projects!
 
-✉️ Contact: [asifzaynab4321@gmail.com]
+
 
 
 
