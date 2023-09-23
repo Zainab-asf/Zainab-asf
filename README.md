@@ -1,6 +1,4 @@
-👨‍💻 Computer Scientist | Full Stack Developer | Open Source Enthusiast 👩‍💻
-
-🚀 Passionate about building innovative and scalable software solutions.
+👨‍💻 Computer Scientist 
 
 🌟 Let's connect and collaborate on exciting projects!
 
