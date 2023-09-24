@@ -1,4 +1,4 @@
-👨‍💻 Computer Scientist 
+👨‍💻 Computer Science student
 
 🌟 Let's connect and collaborate on exciting projects!
 
