@@ -72,12 +72,18 @@
 
 <div align="center" style="background-color:#F2E9E4; padding: 20px; border-radius: 10px;">
 
+<div align="center" style="background-color:#F2E9E4; padding: 25px; border-radius: 10px; color:#4A4E69;">
+
+<div align="center" style="background-color:#F2E9E4; padding: 30px; border-radius: 10px; color:#4A4E69; font-family: 'Segoe UI', sans-serif;">
+
 ## ✍️ Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Dev Quote" style="max-width: 100%;" />
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Zainab-asf&icon=2&color=4A4E69)](https://visitcount.itsvg.in)
 
 </div>
+
+
