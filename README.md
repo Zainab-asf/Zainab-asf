@@ -1,64 +1,91 @@
-<!-- Stylish Fonts -->
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Inter:wght@400;600&display=swap" rel="stylesheet">
+<div align="center" style="background-color:#F2E9E4; padding: 2em; border-radius: 12px;">
 
-<!-- Background and font styling -->
-<div style="background: #fdf6f0; padding: 30px; font-family: 'Inter', sans-serif; border-radius: 10px;">
+<h1 style="font-family: 'Playfair Display', serif; font-size: 3em; color:#22223B;">
+  Zainab Asif
+</h1>
 
-  <!-- Name -->
-  <h1 style="font-family: 'Playfair Display', serif; font-size: 3em; color: #4a4a4a; margin-bottom: 10px;">
-    Zainab Asif
-  </h1>
-  <p style="font-weight: 600; color: #555;">Aspiring Developer | Passionate about Flutter, AI, and ML</p>
+<p style="color:#4A4E69;"><strong>Aspiring Developer | Passionate about Flutter, AI, and ML</strong></p>
 
-  <!-- Section Divider -->
-  <hr style="border: none; height: 1px; background: #ccc; margin: 25px 0;">
-
-  <!-- Skills Section -->
-  <h2 style="font-size: 1.5em; margin-bottom: 15px; color: #333;">🧠 Skills</h2>
-
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px;">
-
-    <!-- Languages -->
-    <div><strong>Languages</strong><br>
-      <img src="https://img.shields.io/badge/C-004482?style=flat-square&logo=c&logoColor=white">
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white">
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white">
-      <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white">
-    </div>
-
-    <!-- Front-End Development -->
-    <div><strong>Front-End</strong><br>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-    </div>
-
-    <!-- Frameworks -->
-    <div><strong>Frameworks</strong><br>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
-    </div>
-
-    <!-- AI & ML -->
-    <div><strong>AI / ML</strong><br>
-      <img src="https://img.shields.io/badge/Machine%20Learning-00BFFF?style=flat-square&logo=scikit-learn&logoColor=white">
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
-    </div>
-
-    <!-- Cloud -->
-    <div><strong>Cloud</strong><br>
-      <img src="https://img.shields.io/badge/GitHub%20Pages-121013?style=flat-square&logo=github&logoColor=white">
-    </div>
-
-    <!-- Tools -->
-    <div><strong>Tools</strong><br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-      <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white">
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-      <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white">
-    </div>
-  </div>
 </div>
+
+---
+
+## 🌐 Connect with Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-4A4E69?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zainabasf)
+[![Instagram](https://img.shields.io/badge/Instagram-9A8C98?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zainab.asf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-C9ADA7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zainab-asif-44282b276/)
+
+---
+
+## 🧠 Skills
+
+### Languages
+![C](https://img.shields.io/badge/C-22223B?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-4A4E69?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-9A8C98?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-C9ADA7?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-F2E9E4?style=for-the-badge&logo=python&logoColor=black)
+
+### Front-End Development
+![HTML5](https://img.shields.io/badge/HTML5-4A4E69?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-9A8C98?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-C9ADA7?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frameworks & Platforms
+![Flutter](https://img.shields.io/badge/Flutter-22223B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-F2E9E4?style=for-the-badge&logo=firebase&logoColor=black)
+
+### AI & Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-9A8C98?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-C9ADA7?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Tools & IDEs
+![Git](https://img.shields.io/badge/Git-4A4E69?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-22223B?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-9A8C98?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-C9ADA7?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F2E9E4?style=for-the-badge&logo=figma&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-4A4E69?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zainab-asf&show_icons=true&theme=calm&hide_border=true&bg_color=F2E9E4&title_color=22223B&text_color=4A4E69&icon_color=9A8C98)
+
+</td>
+<td align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zainab-asf&theme=calm&hide_border=true&background=F2E9E4&ring=4A4E69&fire=9A8C98&currStreakLabel=22223B)
+
+</td>
+<td align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zainab-asf&layout=compact&theme=calm&hide_border=true&bg_color=F2E9E4&title_color=22223B&text_color=4A4E69)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+
+---
+
+## ✍️ Dev Quote
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Zainab-asf&icon=2&color=10)](https://visitcount.itsvg.in)
+
+<!-- Built with pastel perfection by Zainab using GPRM -->
