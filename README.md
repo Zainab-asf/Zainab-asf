@@ -50,33 +50,29 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
+## 📊 GitHub Contributions
+
+### 🔹 GitHub Stats
 
 <table>
 <tr>
-<td align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zainab-asf&show_icons=true&theme=calm&hide_border=true&bg_color=F2E9E4&title_color=22223B&text_color=4A4E69&icon_color=9A8C98)
-
-</td>
-<td align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zainab-asf&theme=calm&hide_border=true&background=F2E9E4&ring=4A4E69&fire=9A8C98&currStreakLabel=22223B)
-
-</td>
-<td align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zainab-asf&layout=compact&theme=calm&hide_border=true&bg_color=F2E9E4&title_color=22223B&text_color=4A4E69)
-
-</td>
+  <td align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Zainab-asf&show_icons=true&theme=calm&hide_border=true&bg_color=F2E9E4&title_color=22223B&text_color=4A4E69&icon_color=9A8C98" />
+  </td>
+  <td align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zainab-asf&theme=calm&hide_border=true&background=F2E9E4&ring=4A4E69&fire=9A8C98&currStreakLabel=22223B" />
+  </td>
 </tr>
 </table>
 
+---
+
+### 🔹 Top Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zainab-asf&layout=compact&theme=calm&hide_border=true&bg_color=F2E9E4&title_color=22223B&text_color=4A4E69" />
 </div>
-
-
 
 ---
 
